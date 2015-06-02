@@ -39,7 +39,7 @@ hexo-vno
 ### Install
 
 ``` bash
-$ git clone git@github.com:lenbo-ma/hexo-theme-vno.git themes/vno
+$ git clone git@github.com:futantan/hexo-theme-vno.git themes/vno
 ```
 
 ### Enable
