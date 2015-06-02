@@ -1,7 +1,7 @@
 hexo-vno
 ========
 
-这个主题是修改自[onevat的vno](https://github.com/onevcat/vno), 它遵从简洁和响应式的设计风格，拥有一个独立的封面，易于集成的 Disqus 评论和多说系统，Google Analytics,字体图标以及多种颜色。
+这个主题是修改自[马隆博的hexo主题](https://github.com/lenbo-ma/hexo-theme-vno), 它遵从简洁和响应式的设计风格，拥有一个独立的封面，易于集成的 Disqus 评论和多说系统，Google Analytics,字体图标以及多种颜色。
 
 ## Demo Show
 
@@ -39,7 +39,7 @@ hexo-vno
 ### Install
 
 ``` bash
-$ git clone https://github.com/lenbo-ma/hexo-theme-vno.git themes/vno
+$ git clone git@github.com:lenbo-ma/hexo-theme-vno.git themes/vno
 ```
 
 ### Enable
